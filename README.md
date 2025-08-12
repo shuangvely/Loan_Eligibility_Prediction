@@ -1,74 +1,67 @@
-<h1 align="center">Hi, I'm Shuang Gong (shuangvely) 👋</h1>
+<h1 align="center">Hey there! I'm Shuang Gong (shuangvely) 👋</h1>
 <p align="center">
-  <b>Data Analyst | Product Research & Quality Analytics | M.S. in Analytics @ Georgia Tech (in progress)</b><br/>
-  I turn business questions into measurable results through data-driven strategies.
+  🎯 Data Analyst · 📊 Turning data into decisions · 📚 M.S. Analytics (Data Science) @ Georgia Tech (in progress)
 </p>
 
 ---
 
-### 📣 About Me
-- Over 5 years of experience transforming raw data and experiments into clear business recommendations.  
-- Proven track record in improving quality, increasing revenue, and optimizing processes across product R&D, manufacturing, and marketing.  
-- Skilled at bridging technical analysis with actionable strategies for stakeholders.
+## ✨ About Me
+- 💡 Love turning messy data into **clear, actionable insights**.  
+- 🔍 Enjoy finding patterns, testing ideas, and measuring impact.  
+- 🛠 Skilled in **SQL**, **Python**, **R**, **Power BI/Tableau**, and data storytelling.  
+- 🚀 Always curious about how numbers can **drive better decisions** in business.
 
 ---
 
-### 🏆 Business Impact Highlights
-- **Cut operational costs**: Developed predictive models to reduce manual sensory testing by 20%, enabling faster go-to-market decisions.  
-- **Increase sales**: Designed competitive clustering and market segmentation strategies that contributed to ~8% sales growth.  
-- **Improve quality**: Standardized fermentation QC protocols and launched quality forecasting, reducing product variability by 12%.  
-- **Optimize resources**: Built SQL-driven dashboards to track ingredient usage, improving raw material efficiency by 15%.  
-- **Boost consistency**: Led DOE experiments that increased overall product quality consistency by 5–10%.
+## 🚀 Projects I'm Proud Of
+
+### 1️⃣ Loan Eligibility Prediction Using Machine Learning (Jul 2025 - Aug 2025)
+- 🧮 Built classification models (**Logistic Regression**, **KNN**, **Decision Tree**, **Random Forest**) to predict loan eligibility.  
+- 🔍 Performed **EDA** + correlation analysis to find what **really matters** in applicant demographics.  
+- 🧹 Cleaned data: handled missing values, encoded categorical vars, scaled numbers, and used **over-sampling** to fix imbalance.  
+- 🎯 Tuned hyperparameters & compared model performance systematically.  
+
+**Highlight:** Showcased end-to-end ML workflow from raw data to model selection.
 
 ---
 
-### 📌 Featured Projects
-1. **Loan Eligibility Prediction** — Predict applicant eligibility using multiple machine learning models.  
-   _Business Value_: Demonstrates ability to create end-to-end predictive workflows that can reduce loan default rates.  
+### 2️⃣ Mobile Games A/B Testing – Cookie Cats Player Retention (Jun 2025 - Jul 2025)
+- 🛠 Preprocessed game data & visualized player behavior.  
+- 📊 Calculated **1-day & 7-day retention** for control vs treatment, tested significance via **z-test**.  
+- 🔄 Used **bootstrapping** to measure certainty of differences.  
 
-2. **Cookie Cats A/B Test** — Measured retention impact of in-game level changes through statistical testing.  
-   _Business Value_: Shows capability to design experiments and interpret results to optimize customer retention strategies.  
-
-3. **Bikes Cohort & RFM Analysis** — Identified customer retention trends and high-value segments for targeted marketing.  
-   _Business Value_: Provides insight into lifecycle marketing opportunities and campaign ROI.  
-
-4. **Quality Analytics Playbook** — Data pipeline and analytics framework for quality forecasting (with synthetic data).  
-   _Business Value_: Illustrates experience in building analytical processes that directly support quality management and operational decisions.  
-
-5. **Data Analytics Project Template** — Standardized repository structure for repeatable analytics projects.  
-   _Business Value_: Reflects my approach to maintaining consistency and efficiency in project execution.
+**Highlight:** Real example of experiment design + statistical validation for a product decision.
 
 ---
 
-### 🧰 Tools & Methods
-- **Data Analysis & BI**: SQL, Excel (VBA), Power BI, Tableau, Looker  
-- **Statistical Methods**: A/B testing, hypothesis testing, clustering, regression, time series, multivariate analysis  
-- **Programming**: Python, R, SAS  
-- **Process Improvement**: DOE, KPI tracking, dashboard creation, data governance  
-- **ERP/CRM Systems**: SAP (ERP), Salesforce (CRM)  
+### 3️⃣ Bikes & Cycling Accessories – Cohort & RFM Analysis (May 2025 - Jun 2025)
+- 📅 Built **cohort analysis** heatmaps to track monthly retention and uncover drivers behind behavior.  
+- 🛒 Ran **RFM analysis** to find seasonality, promo impact, and cross-selling opportunities.  
+- 🔍 Segmented users & performed root cause analysis for loyalty trends.  
+
+**Highlight:** Identified actionable customer segments & campaign timing opportunities.
 
 ---
 
-### 🗂️ Repository Template
-```
-repo-name/
-├─ README.md                # Business problem, solution approach, results, and replication steps
-├─ data/                    # Synthetic or anonymized data with documentation
-├─ notebooks/               # Analysis workflows
-├─ src/                     # Reusable functions for data processing and metrics
-├─ sql/                     # Query scripts
-├─ dashboards/              # BI files or PDF screenshots
-├─ docs/                    # Process maps, KPI definitions, and impact summaries
-└─ .github/workflows/       # CI for linting, testing, and report publishing
-```
+## 🧰 Toolbox
+**Languages & Tools:**  
+`Python` · `SQL` · `R` · `SAS` · `Java` · `C++` · `Excel (VBA)` · `Power BI` · `Tableau` · `Looker` · `Google Analytics` · `git`  
+**Methods:**  
+A/B Testing · Hypothesis Testing · Clustering · Regression · Time Series Analysis · Multivariate Analysis · DOE · KPI Tracking · Data Governance  
+**Platforms & Cloud:**  
+AWS · GCP · Azure · Hadoop · Hive · Spark · Snowflake  
+**ERP/CRM Systems:**  
+SAP (ERP) · Salesforce (CRM)  
 
 ---
 
-### 🤝 Let's Connect
-- **Email**: shuanggongsg@gmail.com  
-- **LinkedIn**: [linkedin.com/in/shuang-gong](https://www.linkedin.com/in/shuang-gong/)
+## 💌 Let's Connect
+- 📧 Email: **shuanggongsg@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/shuang-gong](https://www.linkedin.com/in/shuang-gong/)  
+- ⭐ If you like my work, feel free to **star** a repo or say hi!
+
+---
 
 <p align="center">
   <sub>Last updated: 2025-08-12</sub>
 </p>
-
