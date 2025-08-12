@@ -15,7 +15,7 @@
 
 ## 🚀 Projects I'm Proud Of
 
-### 1️⃣ Loan Eligibility Prediction Using Machine Learning (Jul 2025 - Aug 2025)
+### 1️⃣ Loan Eligibility Prediction Using Machine Learning 
 - 🧮 Built classification models (**Logistic Regression**, **KNN**, **Decision Tree**, **Random Forest**) to predict loan eligibility.  
 - 🔍 Performed **EDA** + correlation analysis to find what **really matters** in applicant demographics.  
 - 🧹 Cleaned data: handled missing values, encoded categorical vars, scaled numbers, and used **over-sampling** to fix imbalance.  
@@ -25,7 +25,7 @@
 
 ---
 
-### 2️⃣ Mobile Games A/B Testing – Cookie Cats Player Retention (Jun 2025 - Jul 2025)
+### 2️⃣ Mobile Games A/B Testing – Cookie Cats Player Retention 
 - 🛠 Preprocessed game data & visualized player behavior.  
 - 📊 Calculated **1-day & 7-day retention** for control vs treatment, tested significance via **z-test**.  
 - 🔄 Used **bootstrapping** to measure certainty of differences.  
@@ -34,7 +34,7 @@
 
 ---
 
-### 3️⃣ Bikes & Cycling Accessories – Cohort & RFM Analysis (May 2025 - Jun 2025)
+### 3️⃣ Bikes & Cycling Accessories – Cohort & RFM Analysis 
 - 📅 Built **cohort analysis** heatmaps to track monthly retention and uncover drivers behind behavior.  
 - 🛒 Ran **RFM analysis** to find seasonality, promo impact, and cross-selling opportunities.  
 - 🔍 Segmented users & performed root cause analysis for loyalty trends.  
